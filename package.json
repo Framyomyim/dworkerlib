@@ -1,6 +1,6 @@
 {
   "name": "dworkerlib",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Open Source Library for make discord bot",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -20,5 +20,9 @@
   "devDependencies": {
     "@types/node": "^15.6.1",
     "discord.js": "^12.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Framyomyim/dworkerlib"
   }
 }
