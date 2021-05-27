@@ -1,6 +1,6 @@
 {
   "name": "dworkerlib",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Open Source Library for make discord bot",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
