@@ -1,0 +1,24 @@
+{
+  "name": "dworkerlib",
+  "version": "1.0.3",
+  "description": "Open Source Library for make discord bot",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "discordbot",
+    "library"
+  ],
+  "author": "frammhe",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^15.6.1",
+    "discord.js": "^12.5.3"
+  }
+}
